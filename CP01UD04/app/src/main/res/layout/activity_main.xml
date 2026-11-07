@@ -55,7 +55,6 @@
         android:text="@string/text_recordar"
         app:layout_constraintStart_toStartOf="@+id/editTextText2"
         app:layout_constraintTop_toBottomOf="@+id/editTextText2" />
-
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -65,5 +64,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkBox" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

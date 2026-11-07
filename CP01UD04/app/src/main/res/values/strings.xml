@@ -5,4 +5,9 @@
 <string name="hint_contrasena">Contraseña</string>
 <string name="text_recordar">Recordar Usuario</string>
 <string name="btn_acceder">Acceder</string>
+    <string name="zona1">Zona 1</string>
+    <string name="zona2">Zona 2</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="acceso">Acceso</string>
 </resources>
