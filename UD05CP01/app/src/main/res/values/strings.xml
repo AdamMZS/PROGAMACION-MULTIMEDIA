@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UD05CP01</string>
+    <string name="TextoAbajo">Calcula el numero de dias desde tu fecha de nacimiento</string>
+    <string name="TextParteArriba">Hoy es %s</string>
+    <string name="TextoNaciste">Naciste...</string>
+    <string name="TextoNacisteCambio">Naciste el %s</string>
+    <string name="button_text">Fecha nacimiento</string>
+    <string name="AccionBoton">Tienes %d años y %d dias </string>"
+    <string name="BotonPositivoCalendario"> Seleccionar</string>
+    <string name="BotonNegativoCalendario"> Volver</string>
+</resources>
